@@ -1,5 +1,5 @@
-""" Author: Weizhi Liu  """
-"""  E-mail: lwzzz@stu.hqu.edu.cn """
+""" Author: Weizhi Liu """
+""" E-mail: lwzzz@stu.hqu.edu.cn """
 
 import torch.nn as nn
 
