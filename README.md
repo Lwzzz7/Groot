@@ -1,4 +1,4 @@
-# GROOT: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
+# Groot: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis
 
 Official implementation for the paper "GROOT: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis" in [ACM MM 2024](https://2024.acmmm.org/).
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680596)
